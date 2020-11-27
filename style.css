@@ -1,0 +1,37 @@
+.site-header{
+    height: 100vh;
+    background-color: #1bbc93;
+    color: #130101;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+
+}
+
+.site-content{
+    margin: 10px;
+}
+.pic-source{
+    border-radius: 50%;
+    height: 210px;
+    width: 210px;
+    align-self: center;
+    box-shadow: #1e3a3a;
+}
+.site-address{
+    color: #130101;
+
+    
+}
+.site-download{
+    align-self: center;
+    background-color: rgb(230, 34, 34);
+    padding: 10px;
+    cursor: pointer;
+}
+body{
+    margin: 0px;
+}
